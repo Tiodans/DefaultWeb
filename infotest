@@ -8,6 +8,7 @@ Commit #4 during squash activity
 
 Commit #5 during squash activity
 
+<<<<<<< HEAD
 Commit #6 during squash activity
 
 Commit #7 during squash activity
@@ -15,3 +16,6 @@ Commit #7 during squash activity
 Commit #8 during squash activity
 
 Commit #9 during squash activity
+=======
+Commit #6 during squash activity
+>>>>>>> parent of 1075842 (Commit #7)
